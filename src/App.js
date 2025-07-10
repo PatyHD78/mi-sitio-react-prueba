@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hola desde Netlify con despliegue continuo esta es una practica de despliegue trabajo de Faby y Paty</h1>
+        <h2> esta es una practica de despliegue trabajo de Faby y Paty</h2>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
